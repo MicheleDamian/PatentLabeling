@@ -5,7 +5,7 @@ This code was developed as part of the USPTO Algorithm Challenge, a competition 
 
 In the Problem Statement section there is a brief description of the problem this code try to solve. In the Solution section the algorithm used to solve it is presented.
 
-You can find more information on the competition [here](http://community.topcoder.com/ntl/) and the full problem statement [here](http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=15027&pm=11645). Note that you should be a TopCoder member to be able to read the later.
+You can find the full problem statement [here](http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=15027&pm=11645).
 
 
 Problem Statement
